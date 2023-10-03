@@ -42,6 +42,4 @@ To use this project:
 
 We welcome feedback and contributions from the community to enhance this project further. Please open issues or submit pull requests if you have any suggestions or improvements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+@maniac-03
