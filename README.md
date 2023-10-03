@@ -42,4 +42,6 @@ To use this project:
 
 We welcome feedback and contributions from the community to enhance this project further. Please open issues or submit pull requests if you have any suggestions or improvements.
 
-@maniac-03
+## Conclusion
+
+Smart public restrooms offer a number of benefits, including improved hygiene, reduced costs, improved efficiency, and an enhanced user experience. By implementing a smart public restroom project, communities can improve the quality of life for their residents and visitors.
